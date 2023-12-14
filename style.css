@@ -1,0 +1,18 @@
+body {
+  position: relative;
+}
+
+.col-2 img {
+  height: 120px;
+}
+
+#dateails {
+  opacity: 0;
+}
+
+#loading {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
